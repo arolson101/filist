@@ -1,4 +1,6 @@
-=== filist ===
+filist
+------
+
 A list of financial institutions and their OFX connection information.
 
 Currently there are 775 institutions.

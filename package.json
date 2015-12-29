@@ -1,10 +1,13 @@
 {
   "name": "filist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A json-formatted list of financial institutions and their OFX connection information",
   "main": "filist.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "typescript": {
+    "definition": "./filist.d.ts"
   },
   "author": "andrew@olsononline.org",
   "license": "MIT",

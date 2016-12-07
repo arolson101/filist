@@ -1,6 +1,6 @@
 {
   "name": "filist",
-  "version": "1.1.0",
+  "version": "1.0.1",
   "description": "A json-formatted list of financial institutions and their OFX connection information",
   "main": "filist.json",
   "scripts": {
